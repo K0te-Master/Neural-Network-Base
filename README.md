@@ -96,7 +96,10 @@ int main() {
 }
 ```
 ## Установка
-Переместите файл `network.h` в ваш проект и все =)
+* Установите `nlohman/json`
+* Переместите файл `network.h` в ваш проект и все =)
 
 ## Полезные ссылки
 [MNIST Dataset Json](https://github.com/Eventual-Inc/mnist-json.git)
+
+[nlohman/json](https://github.com/nlohmann/json.git)
